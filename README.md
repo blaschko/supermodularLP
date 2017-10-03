@@ -1,4 +1,4 @@
-Code for the experiments described in: Blaschko, M. B.: Slack and Margin Rescaling as Convex Extensions of Supermodular Functions. arXiv:1606.05918, 2016.
+Code for the experiments described in: Blaschko, M. B.: Slack and Margin Rescaling as Convex Extensions of Supermodular Functions. International Conference on Energy Minimization Methods in Computer Vision and Pattern Recognition (EMMCVPR), 2017.
 
 This code makes use of several functions from Krause, A: SFO: A Toolbox for Submodular Function Optimization, JMLR, 2010.
 
